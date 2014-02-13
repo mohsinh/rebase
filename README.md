@@ -3,4 +3,7 @@ rebase
 
 Test rebase and fast forwarding
 
-Test Something
+Commit 1
+
+Commit 2
+
