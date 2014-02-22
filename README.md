@@ -1,7 +1,7 @@
 rebase
 ======
 
-Test Test rebase and fast forwarding
+Test Test Test rebase and fast forwarding
 
 Commit 1
 
