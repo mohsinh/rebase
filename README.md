@@ -10,3 +10,5 @@ Commit 2
 Commit 3
 
 Test rebase
+
+Test rebase with fAst forward
